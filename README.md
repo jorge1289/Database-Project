@@ -1,7 +1,7 @@
-#RookieDB
+# RookieDB
 RookieDB is a lightweight, educational database system developed as part of UC Berkeley's CS 186: Database Systems. The project provides a basic foundation for understanding core database concepts and techniques by supporting the execution of simple transactions in series. Throughout the course, advanced features are implemented, focusing on real-world database challenges.
 
-#Features:
+# Features:
 B+ Tree Indices: Efficient indexing to improve query performance.
 
 Join Algorithms: Implementing optimized algorithms for joining tables.
